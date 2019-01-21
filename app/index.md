@@ -2,6 +2,7 @@
 
 Welcome to _Flavor_, the only place on the planet where your taste buds won't be disappointed!
 
+##Last Month's Favorite
 
 ##Last Month's Favorites"
  
