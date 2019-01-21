@@ -10,7 +10,7 @@ Welcome to _Flavor_, the only place on the planet where your taste buds won't be
 
 [Quick Oatmeal Pancakes](recipe/feb/quick-oatmeal-pancakes.md)
 
-## Picks of the Month
+## Picks of the Month b
 
 ### [Cuba Pudding Jr.](writer/cuba-pudding-jr.md) 
 
